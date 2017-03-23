@@ -1,3 +1,3 @@
-#Simple CI Demo
+Simple CI Demo
 
 --Original code by VeerMuchandi--
